@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "filename": "20230406_200400.jpg",
+    "category": "NIGHT",
+    "url": "/photos/NIGHT/20230406_200400.jpg",
+    "thumb": "/photos/NIGHT/20230406_200400-thumb.webp",
+    "medium": "/photos/NIGHT/20230406_200400-med.webp"
+  },
+  {
+    "id": "2",
+    "filename": "20230927_005726.jpg",
+    "category": "NIGHT",
+    "url": "/photos/NIGHT/20230927_005726.jpg",
+    "thumb": "/photos/NIGHT/20230927_005726-thumb.webp",
+    "medium": "/photos/NIGHT/20230927_005726-med.webp"
+  },
+  {
+    "id": "3",
+    "filename": "20231226_213742.jpg",
+    "category": "NIGHT",
+    "url": "/photos/NIGHT/20231226_213742.jpg",
+    "thumb": "/photos/NIGHT/20231226_213742-thumb.webp",
+    "medium": "/photos/NIGHT/20231226_213742-med.webp"
+  },
+  {
+    "id": "4",
+    "filename": "20221213_154318-med.webp",
+    "category": "RANDOM",
+    "url": "/photos/RANDOM/20221213_154318-med.webp",
+    "thumb": "/photos/RANDOM/20221213_154318-med-thumb.webp",
+    "medium": "/photos/RANDOM/20221213_154318-med-med.webp"
+  },
+  {
+    "id": "5",
+    "filename": "20230922_174846-thumb.webp",
+    "category": "RANDOM",
+    "url": "/photos/RANDOM/20230922_174846-thumb.webp",
+    "thumb": "/photos/RANDOM/20230922_174846-thumb-thumb.webp",
+    "medium": "/photos/RANDOM/20230922_174846-thumb-med.webp"
+  },
+  {
+    "id": "6",
+    "filename": "20230922_174846.jpg",
+    "category": "RANDOM",
+    "url": "/photos/RANDOM/20230922_174846.jpg",
+    "thumb": "/photos/RANDOM/20230922_174846-thumb.webp",
+    "medium": "/photos/RANDOM/20230922_174846-med.webp"
+  },
+  {
+    "id": "7",
+    "filename": "20230928_013442-med.webp",
+    "category": "RANDOM",
+    "url": "/photos/RANDOM/20230928_013442-med.webp",
+    "thumb": "/photos/RANDOM/20230928_013442-med-thumb.webp",
+    "medium": "/photos/RANDOM/20230928_013442-med-med.webp"
+  },
+  {
+    "id": "8",
+    "filename": "20230928_013624.jpg",
+    "category": "RANDOM",
+    "url": "/photos/RANDOM/20230928_013624.jpg",
+    "thumb": "/photos/RANDOM/20230928_013624-thumb.webp",
+    "medium": "/photos/RANDOM/20230928_013624-med.webp"
+  },
+  {
+    "id": "9",
+    "filename": "25-05-10_20-04-09-736-med.webp",
+    "category": "SUN",
+    "url": "/photos/SUN/25-05-10_20-04-09-736-med.webp",
+    "thumb": "/photos/SUN/25-05-10_20-04-09-736-med-thumb.webp",
+    "medium": "/photos/SUN/25-05-10_20-04-09-736-med-med.webp"
+  },
+  {
+    "id": "10",
+    "filename": "20221226_114402.jpg",
+    "category": "SUN",
+    "url": "/photos/SUN/20221226_114402.jpg",
+    "thumb": "/photos/SUN/20221226_114402-thumb.webp",
+    "medium": "/photos/SUN/20221226_114402-med.webp"
+  },
+  {
+    "id": "11",
+    "filename": "20221226_114409-med.webp",
+    "category": "SUN",
+    "url": "/photos/SUN/20221226_114409-med.webp",
+    "thumb": "/photos/SUN/20221226_114409-med-thumb.webp",
+    "medium": "/photos/SUN/20221226_114409-med-med.webp"
+  }
+]
