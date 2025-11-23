@@ -1,0 +1,38 @@
+{
+  "name": "nature-gallery-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate-all": "node scripts/generate-all.mjs",
+    "watch-all": "node scripts/generate-all.mjs --watch",
+    "generate-thumbs": "node scripts/generate-thumbs.mjs",
+    "watch-list": "node scripts/generate-list.js --watch",
+    "dev": "vite",
+    "generate-list": "node scripts/generate-list.js",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest --globals"
+  },
+  "dependencies": {
+    "firebase": "^12.6.0",
+    "framer-motion": "^10.12.16",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "@testing-library/react": "^14.1.1",
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.11",
+    "@vitejs/plugin-react": "^5.1.1",
+    "autoprefixer": "^10.4.14",
+    "jsdom": "^22.1.0",
+    "postcss": "^8.4.35",
+    "sharp": "^0.34.5",
+    "tailwindcss": "^3.4.7",
+    "typescript": "^5.3.3",
+    "vite": "^5.3.9",
+    "vitest": "^1.1.5"
+  }
+}
